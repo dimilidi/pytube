@@ -22,7 +22,7 @@ This is a YouTube downloader application implemented in Python using the CustomT
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/youtube_downloader.git
+   git clone https://github.com/dimilidi/pytube
    ```
 
 2. Install the required libraries:
@@ -47,19 +47,10 @@ This is a YouTube downloader application implemented in Python using the CustomT
 7. Once the download is complete, a success message will be displayed.
 
 ## Screenshots
+<img src = "pytube.jpg" width = 400>
 
-![Screenshot 1](screenshots/screenshot1.png)
-
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Feel free to modify the README to fit your specific project structure and add any additional sections or information as needed.

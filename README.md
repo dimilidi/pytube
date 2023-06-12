@@ -33,10 +33,10 @@ This is a YouTube downloader application implemented in Python using the CustomT
 
 ## Usage
 
-1. Run the `youtube_downloader.py` file:
+1. Run the `main.py` file:
 
    ```shell
-   python youtube_downloader.py
+   python main.py
    ```
 
 2. Enter a valid YouTube URL in the provided input field and click the "Go" button.
